@@ -1,0 +1,31 @@
+# Hello Patient
+
+> Hello Patient builds AI agents ("Mia") for patient conversations across voice, text, and web chat — automating appointment scheduling, insurance verification, patient intake, revenue-cycle (RCM) follow-up, no-show recovery, and patient recall for healthcare practices. HIPAA compliant and SOC 2 Type 2 certified. No public developer API is documented at this time; this profile is maintained by the API Evangelist network.
+
+## Company
+- [Website](https://hellopatient.com): Company home and product overview
+- [Product](https://hellopatient.com/product): Mia AI agent — front office, back office, and patient growth automation
+- [About](https://hellopatient.com/about): Team, mission, and founding story
+- [Case Studies](https://hellopatient.com/case-studies): Customer outcomes across specialties
+- [Blog](https://hellopatient.com/blog): News, learning, and case-study articles
+
+## Specialties
+- [Dentistry](https://hellopatient.com/specialties/dentistry)
+- [Dermatology](https://hellopatient.com/specialties/dermatology)
+- [ENT](https://hellopatient.com/specialties/ent)
+- [Mental Health](https://hellopatient.com/specialties/mental-health)
+- [Optometry](https://hellopatient.com/specialties/optometry)
+- [Primary Health Care](https://hellopatient.com/specialties/primary-health-care)
+- [Urgent Care](https://hellopatient.com/specialties/urgent-care)
+- [Veterinary Care](https://hellopatient.com/specialties/veterinary-care)
+- [Consumer Health](https://hellopatient.com/specialties/consumer-health)
+
+## Trust & Compliance
+- [Privacy Policy](https://hellopatient.com/privacy-policy): HIPAA, CCPA, and GDPR posture; security contact security@hellopatient.com
+- [SOC 2 Type 2 announcement](https://hellopatient.com/blog): SOC 2 Type 2 certification
+
+## Get Started
+- [Schedule a Call](https://hellopatient.com/schedule): Book an introductory consultation
+- [Live Demo](https://hellopatient.com/live-demo): Talk to Mia directly
+- [Careers](https://jobs.ashbyhq.com/hellopatient): Open roles
+- [Contact](mailto:hello@hellopatient.com): hello@hellopatient.com

@@ -1,8 +1,29 @@
 aid: hello-patient
 name: Hello Patient
-description: Hello Patient is a company surfaced as a portfolio company of 8vc, scale-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: Hello Patient builds AI agents (branded "Mia") for patient conversations
+  across voice, text, and web chat, helping healthcare practices automate their front
+  office, back office, and patient-growth workflows. Mia handles 24/7 appointment scheduling,
+  insurance verification, and patient intake on the front office; revenue-cycle (RCM)
+  follow-up and no-show recovery on the back office; and lead conversion, patient recall,
+  and targeted outreach for growth. The platform serves dentistry, dermatology, ENT,
+  mental health, optometry, primary care, urgent care, veterinary, and consumer-health
+  practices, and integrates with EHR and practice systems including ModMed, AdvancedMD,
+  NextGen, eClinicalWorks, Athena Health, Veradigm, Zenoti, and others. Hello Patient
+  is HIPAA compliant and SOC 2 Type 2 certified. It is backed by 8VC and Scale Venture
+  Partners. No public developer API is documented at this time; this profile is maintained
+  by the API Evangelist network.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/67363ec98e673c430a5d5eeb/6871773ed05ac7f7b4c6f785_OG%20-%20Home.png
 url: https://raw.githubusercontent.com/api-evangelist/hello-patient/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +34,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Healthcare
+- Artificial Intelligence
+- Conversational AI
+- Patient Engagement
+- Healthcare Automation
+- Voice Agents
+- Revenue Cycle Management
+- HIPAA
+- EHR Integration
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,34 @@ maintainers:
 common:
 - type: Website
   url: https://hellopatient.com
+- type: Product
+  url: https://hellopatient.com/product
+- type: About
+  url: https://hellopatient.com/about
+- type: Blog
+  url: https://hellopatient.com/blog
+- type: CaseStudies
+  url: https://hellopatient.com/case-studies
+- type: SignUp
+  url: https://hellopatient.com/schedule
+- type: Support
+  url: mailto:hello@hellopatient.com
+- type: PrivacyPolicy
+  url: https://hellopatient.com/privacy-policy
+- type: Careers
+  url: https://jobs.ashbyhq.com/hellopatient
+- type: LinkedIn
+  url: https://www.linkedin.com/company/hello-patient/
+- type: Compliance
+  url: conformance/hello-patient-conformance.yml
+- type: Conformance
+  url: conformance/hello-patient-conformance.yml
+- type: DomainSecurity
+  url: security/hello-patient-domain-security.yml
+- type: LLMsTxt
+  url: llms/hello-patient-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
