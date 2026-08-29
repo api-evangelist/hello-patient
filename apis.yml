@@ -12,6 +12,17 @@ description: Hello Patient builds AI agents (branded "Mia") for patient conversa
   is HIPAA compliant and SOC 2 Type 2 certified. It is backed by 8VC and Scale Venture
   Partners. No public developer API is documented at this time; this profile is maintained
   by the API Evangelist network.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
